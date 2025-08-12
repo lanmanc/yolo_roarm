@@ -1,7 +1,6 @@
 ﻿test/
 train/
 valid/
-runs/
 *.pt
 __pycache__/
 *.pyc
